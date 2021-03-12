@@ -13,6 +13,18 @@
       "duration": 1000
     },
     {
+      "name": "Animation 2",
+      "type": "animation",
+      "role": "stagemanager",
+      "url":  "https://xrtheater-assets.xrtheater.live/files/141d8927-f6d1-4706-9ca5-4fccf21053bb.glb",
+      "animtype": "position",
+      "start": {"pos": {"x": 0.1, "y":0.1, "z":0.1}, "rot": {"x": 0.1, "y":0.1, "z":0.1}, "scale": {"x": 1, "y":1, "z":1}},
+      "begin": {"x":0.1, "y":0.1, "z":0.1},
+      "end": {"x":10.1, "y":0.1, "z":0.1},
+      "isLooping": false,
+      "duration": 1000
+    },
+    {
       "name": "Waypoint 1",
       "type":"waypoint",
       "role":"performer1",
