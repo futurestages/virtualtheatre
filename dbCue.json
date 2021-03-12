@@ -66,5 +66,11 @@
       "role":"performer1",
       "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb"
     }
+    {
+      "name": "Props 1",
+      "type":"props",
+      "role":"performer2",
+      "url":"https://xrtheater-assets.xrtheater.live/files/141d8927-f6d1-4706-9ca5-4fccf21053bb.glb"
+    }
   ]
 }
